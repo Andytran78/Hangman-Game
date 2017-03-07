@@ -1,0 +1,23 @@
+
+.header {
+	text-align: center;
+}
+
+.wrapper {
+	width: 1000px;
+	height: 800px;
+}
+.hangman {
+	width: 500px;
+	height: 600px;
+	border: dashed 2px;
+	margin-left: 100px;
+}
+
+.images {
+	width: 500px;
+	height: 600px;
+	border: dashed 2px;
+	float: left;
+	margin-left: 700px;
+}
